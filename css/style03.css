@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css?family=Inconsolata:400,700");
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background-color: red;
+}
+#header {
+  font-family: Inconsolata;
+  text-align: right;
+}
+#row01 {
+  border: solid 1px #000;
+  height: 125px;
+  background-color: grey;
+  text-align: right;
+}
+#picOfMe {
+  border-radius: 25px;
+  padding: 20px; 
+  width: 200px;
+  height: 150px; 
+  margin-left: auto;
+}
